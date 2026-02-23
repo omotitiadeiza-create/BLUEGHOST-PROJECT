@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -78,5 +77,6 @@ We regret to inform stakeholders that the recent analysis was only partially com
 st.text("Project supervisor: Omotiti Adeiza")
 
 st.text("Project Recipient:BLUEGHOST ACADEMY")
+
 
 
